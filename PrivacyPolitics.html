@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — Steam Market Analyzer</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #080b10;
+    --surface: #0f1318;
+    --surface2: #151922;
+    --border: #1c2333;
+    --border2: #222838;
+    --blue: #4a90d9;
+    --blue-dim: #2a5a99;
+    --text: #e8eaf0;
+    --muted: #9aa3b5;
+    --dim: #555e72;
+    --green: #639922;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    line-height: 1.7;
+    min-height: 100vh;
+  }
+
+  /* Grid background */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--border) 1px, transparent 1px),
+      linear-gradient(90deg, var(--border) 1px, transparent 1px);
+    background-size: 40px 40px;
+    opacity: 0.3;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .wrap {
+    position: relative;
+    z-index: 1;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 60px 24px 100px;
+  }
+
+  /* Header */
+  header {
+    margin-bottom: 56px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--blue);
+    border: 1px solid var(--blue-dim);
+    background: rgba(74, 144, 217, 0.06);
+    padding: 4px 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: clamp(22px, 4vw, 32px);
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: -0.5px;
+    margin-bottom: 12px;
+    line-height: 1.2;
+  }
+
+  h1 span { color: var(--blue); }
+
+  .meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    color: var(--dim);
+    letter-spacing: 1px;
+  }
+
+  /* Sections */
+  section {
+    margin-bottom: 40px;
+  }
+
+  h2 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--blue);
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  h2::before {
+    content: attr(data-n);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    background: rgba(74, 144, 217, 0.1);
+    border: 1px solid var(--blue-dim);
+    border-radius: 3px;
+    font-size: 10px;
+    color: var(--blue);
+    flex-shrink: 0;
+  }
+
+  h2::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  p {
+    color: var(--muted);
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+
+  p:last-child { margin-bottom: 0; }
+
+  ul {
+    list-style: none;
+    margin: 8px 0 12px 0;
+  }
+
+  ul li {
+    color: var(--muted);
+    font-size: 14px;
+    padding: 5px 0 5px 20px;
+    position: relative;
+  }
+
+  ul li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--blue);
+    font-size: 12px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* Info card */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin-top: 12px;
+  }
+
+  .card-row {
+    display: flex;
+    gap: 12px;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--border);
+    align-items: flex-start;
+  }
+
+  .card-row:last-child { border-bottom: none; padding-bottom: 0; }
+  .card-row:first-child { padding-top: 0; }
+
+  .card-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--dim);
+    width: 110px;
+    flex-shrink: 0;
+    padding-top: 1px;
+  }
+
+  .card-value {
+    font-size: 13px;
+    color: var(--muted);
+  }
+
+  /* Warning box */
+  .warning {
+    background: #1a1500;
+    border: 1px solid #3a2e00;
+    border-radius: 8px;
+    padding: 14px 18px;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    margin-top: 12px;
+  }
+
+  .warning-icon {
+    font-size: 16px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  .warning p {
+    color: #b89a4a;
+    font-size: 13px;
+    margin: 0;
+  }
+
+  /* Link */
+  a {
+    color: var(--blue);
+    text-decoration: none;
+    border-bottom: 1px solid var(--blue-dim);
+    transition: border-color 0.15s;
+  }
+
+  a:hover { border-color: var(--blue); }
+
+  /* Contact */
+  .contact-block {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    padding: 20px 24px;
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .contact-icon {
+    width: 36px;
+    height: 36px;
+    background: rgba(74, 144, 217, 0.08);
+    border: 1px solid var(--blue-dim);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    flex-shrink: 0;
+  }
+
+  .contact-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--dim);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+  }
+
+  .contact-value {
+    font-size: 14px;
+    color: var(--blue);
+  }
+
+  /* Footer */
+  footer {
+    margin-top: 64px;
+    padding-top: 24px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: gap;
+    gap: 12px;
+  }
+
+  .footer-brand {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--blue);
+  }
+
+  .footer-note {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    color: var(--dim);
+    letter-spacing: 0.5px;
+  }
+
+  /* Responsive */
+  @media (max-width: 500px) {
+    .card-row { flex-direction: column; gap: 4px; }
+    .card-label { width: auto; }
+    footer { flex-direction: column; align-items: flex-start; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="badge">Legal Document</div>
+    <h1>Privacy Policy<br><span>Steam Market Analyzer</span></h1>
+    <p class="meta">Last updated: April 27, 2026 &nbsp;·&nbsp; Version 1.0</p>
+  </header>
+
+  <section>
+    <h2 data-n="1">Who We Are</h2>
+    <p>Steam Market Analyzer is an independent app developed for indie game developers and market researchers. It is not affiliated with or endorsed by Valve Corporation.</p>
+  </section>
+
+  <section>
+    <h2 data-n="2">Data We Collect</h2>
+    <p>When you create an account or sign in, we collect the following information:</p>
+    <div class="card">
+      <div class="card-row">
+        <span class="card-label">Email</span>
+        <span class="card-value">Used solely for authentication. Never shared for marketing purposes.</span>
+      </div>
+      <div class="card-row">
+        <span class="card-label">Username</span>
+        <span class="card-value">Randomly generated at registration. Visible to other users on comments.</span>
+      </div>
+      <div class="card-row">
+        <span class="card-label">Avatar</span>
+        <span class="card-value">Stored as a Steam App ID reference. No image data is uploaded.</span>
+      </div>
+    </div>
+    <div class="warning" style="margin-top:16px">
+      <span class="warning-icon">ℹ️</span>
+      <p>We do not collect your real name, phone number, location, or any other personal identifiers beyond what is listed above.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2 data-n="3">How We Use Your Data</h2>
+    <p>Your email address is used exclusively to:</p>
+    <ul>
+      <li>Authenticate your identity when you sign in</li>
+      <li>Allow you to recover access to your account</li>
+    </ul>
+    <p>We do not sell, rent, or share your email address with any third party for marketing or advertising purposes.</p>
+  </section>
+
+  <section>
+    <h2 data-n="4">Community Content</h2>
+    <p>Comments you post within the app are stored in our database and visible to other users. You may delete your own comments at any time from within the app.</p>
+    <p>Votes (likes/dislikes) you cast on comments are stored and associated with your account solely to prevent duplicate voting.</p>
+  </section>
+
+  <section>
+    <h2 data-n="5">Third-Party Services</h2>
+    <p>The app retrieves publicly available game data from the following external services. No personal data is sent to any of them.</p>
+    <div class="card">
+      <div class="card-row">
+        <span class="card-label">Steam API</span>
+        <span class="card-value">Game details, reviews, player counts — store.steampowered.com</span>
+      </div>
+      <div class="card-row">
+        <span class="card-label">SteamSpy</span>
+        <span class="card-value">Ownership and playtime estimates — steamspy.com</span>
+      </div>
+      <div class="card-row">
+        <span class="card-label">Steam Web API</span>
+        <span class="card-value">Current player counts — api.steampowered.com</span>
+      </div>
+    </div>
+    <p style="margin-top:12px">Requests to these services are made using only public game identifiers (App IDs).</p>
+  </section>
+
+  <section>
+    <h2 data-n="6">Authentication Provider</h2>
+    <p>Account authentication is handled by <strong style="color:var(--text)">Supabase</strong>, a third-party backend service. Your email and password are stored securely by Supabase using industry-standard encryption. We do not have access to your password at any point.</p>
+    <p>You can review Supabase's privacy policy at <a href="https://supabase.com/privacy" target="_blank">supabase.com/privacy</a>.</p>
+  </section>
+
+  <section>
+    <h2 data-n="7">Data Retention</h2>
+    <p>Your account data is retained for as long as your account exists. You may request deletion of your account and all associated data by contacting us at the address listed in section 10.</p>
+  </section>
+
+  <section>
+    <h2 data-n="8">Children's Privacy</h2>
+    <div class="warning">
+      <span class="warning-icon">⚠️</span>
+      <p>Steam Market Analyzer is intended for users aged 13 and older. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has provided us with personal information, please contact us and we will delete it promptly.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2 data-n="9">Changes to This Policy</h2>
+    <p>We may update this privacy policy from time to time. Any changes will be reflected on this page with an updated date at the top. Continued use of the app after changes constitutes acceptance of the new policy.</p>
+  </section>
+
+  <section>
+    <h2 data-n="10">Contact</h2>
+    <p>If you have any questions about this privacy policy or your personal data, please contact us:</p>
+    <div class="contact-block">
+      <div class="contact-icon">✉️</div>
+      <div>
+        <div class="contact-label">Email</div>
+        <div class="contact-value">tu-email@example.com</div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <span class="footer-brand">Steam Market Analyzer</span>
+    <span class="footer-note">Not affiliated with Valve Corporation · © 2026</span>
+  </footer>
+
+</div>
+</body>
+</html>
