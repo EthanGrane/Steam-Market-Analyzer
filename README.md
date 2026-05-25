@@ -19,6 +19,11 @@
 
 ---
 
+## ⬇️ Download APK
+[Download APK here](https://github.com/EthanGrane/Steam-Market-Analyzer/releases/tag/Demo_1)
+
+---
+
 ## 📖 Descripción
 
 **Steam Market Analyzer** es una aplicación móvil desarrollada con **React Native** que permite a desarrolladores, analistas y entusiastas del sector del videojuego estudiar el mercado de Steam de forma rápida e intuitiva.
