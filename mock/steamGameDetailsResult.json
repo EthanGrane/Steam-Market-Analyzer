@@ -1,0 +1,331 @@
+{
+    "2379780": {
+        "success": true,
+        "data": {
+            "type": "game",
+            "name": "Balatro",
+            "steam_appid": 2379780,
+            "required_age": 0,
+            "is_free": false,
+            "controller_support": "full",
+            "dlc": [
+                2834460
+            ],
+            "detailed_description": "\u003Cp class=\"bb_paragraph\" \u003E\u003Cstrong\u003EBalandro es un constructor de mazos roguelike basado en el póker donde deberás crear potentes sinergias y ganar a lo grande.\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d5b3b51f8b55febc8dd08a443d126907.poster.avif?t=1774958057\" width=780 height=190 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d5b3b51f8b55febc8dd08a443d126907.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003Cstrong\u003EPosibilidades infinitas\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003ECombina manos válidas de póker con comodines exclusivos para crear diversas sinergias y mazos. Gana las fichas que necesites para vencer en ciegas intrincadas mientras descubres manos y barajas ocultas durante tu progreso. Toda ayuda será poca para llegar hasta la ciega grande, superar el ante final y alzarte con la victoria.\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/5f6a6f99b54a68f6c070208eb4fc816f.poster.avif?t=1774958057\" width=780 height=240 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/5f6a6f99b54a68f6c070208eb4fc816f.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003C/p\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003ELa experiencia roguelike de póker definitiva.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003EPosibilidades infinitas. El curso de tu partida podrá cambiar drásticamente cada vez que cojas o descartes una carta y con cada comodín.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003EUn exhaustivo modo campaña con 8 niveles de dificultad, así como desafíos, partidas diarias y predefinidas.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3709bdd6d508e2351303497ef0677f0d.poster.avif?t=1774958057\" width=780 height=190 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3709bdd6d508e2351303497ef0677f0d.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003Cstrong\u003ERompe la baraja\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003EDespliega tu habilidad con varias herramientas potentes: diferentes barajas, comodines, cartas de tarot, cartas planetarias, cartas espectrales y cupones. Utiliza estos versátiles elementos para liberar un frenesí de combos y potencia al máximo tus manos de póker con sinergias electrizantes de pura adrenalina.\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/065599625dbc7a1712d0ea315940df38.poster.avif?t=1774958057\" width=780 height=316 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/065599625dbc7a1712d0ea315940df38.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003C/p\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E150 comodines con habilidades únicas\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E15 barajas con modificadores exclusivos para elegir en cada partida\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E5 comodines que añaden nuevas habilidades\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E22 cartas de tarot con capacidad para mejorar tus cartas habituales\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E11 cartas planetarias para subir el nivel de tus manos de póker\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E32 cupones con los que conseguirás ventajas permanentes\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d01e8b80fbdc100d195fce0f5f27b63b.poster.avif?t=1774958057\" width=780 height=190 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d01e8b80fbdc100d195fce0f5f27b63b.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003Cstrong\u003ETírate el rollo\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003EIntrodúcete en el psicodélico y exclusivo mundo de Balatro. Déjate seducir por la banda sonora synthwave, relájate, huye de la rutina diaria y prepárate disfrutar del mejor rollo roguelike que encontrarás jamás.\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003EMejora tu colección y descubre cartas y secretos nuevos en cada partida.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E¡Analiza la pantalla de estadísticas detalladas para estudiar tus mejores manos, los comodines más usados y mil cosas más!\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003ERecuerda aquellos monitores CRT y disfruta de un detallado pixel art a mano.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3bf854ed6d6623c9940b8281d4c115e0.poster.avif?t=1774958057\" width=780 height=240 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3bf854ed6d6623c9940b8281d4c115e0.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003C/p\u003E",
+            "about_the_game": "\u003Cp class=\"bb_paragraph\" \u003E\u003Cstrong\u003EBalandro es un constructor de mazos roguelike basado en el póker donde deberás crear potentes sinergias y ganar a lo grande.\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d5b3b51f8b55febc8dd08a443d126907.poster.avif?t=1774958057\" width=780 height=190 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d5b3b51f8b55febc8dd08a443d126907.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003Cstrong\u003EPosibilidades infinitas\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003ECombina manos válidas de póker con comodines exclusivos para crear diversas sinergias y mazos. Gana las fichas que necesites para vencer en ciegas intrincadas mientras descubres manos y barajas ocultas durante tu progreso. Toda ayuda será poca para llegar hasta la ciega grande, superar el ante final y alzarte con la victoria.\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/5f6a6f99b54a68f6c070208eb4fc816f.poster.avif?t=1774958057\" width=780 height=240 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/5f6a6f99b54a68f6c070208eb4fc816f.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003C/p\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003ELa experiencia roguelike de póker definitiva.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003EPosibilidades infinitas. El curso de tu partida podrá cambiar drásticamente cada vez que cojas o descartes una carta y con cada comodín.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003EUn exhaustivo modo campaña con 8 niveles de dificultad, así como desafíos, partidas diarias y predefinidas.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3709bdd6d508e2351303497ef0677f0d.poster.avif?t=1774958057\" width=780 height=190 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3709bdd6d508e2351303497ef0677f0d.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003Cstrong\u003ERompe la baraja\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003EDespliega tu habilidad con varias herramientas potentes: diferentes barajas, comodines, cartas de tarot, cartas planetarias, cartas espectrales y cupones. Utiliza estos versátiles elementos para liberar un frenesí de combos y potencia al máximo tus manos de póker con sinergias electrizantes de pura adrenalina.\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/065599625dbc7a1712d0ea315940df38.poster.avif?t=1774958057\" width=780 height=316 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/065599625dbc7a1712d0ea315940df38.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003C/p\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E150 comodines con habilidades únicas\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E15 barajas con modificadores exclusivos para elegir en cada partida\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E5 comodines que añaden nuevas habilidades\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E22 cartas de tarot con capacidad para mejorar tus cartas habituales\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E11 cartas planetarias para subir el nivel de tus manos de póker\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E32 cupones con los que conseguirás ventajas permanentes\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d01e8b80fbdc100d195fce0f5f27b63b.poster.avif?t=1774958057\" width=780 height=190 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/d01e8b80fbdc100d195fce0f5f27b63b.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003Cstrong\u003ETírate el rollo\u003C/strong\u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003EIntrodúcete en el psicodélico y exclusivo mundo de Balatro. Déjate seducir por la banda sonora synthwave, relájate, huye de la rutina diaria y prepárate disfrutar del mejor rollo roguelike que encontrarás jamás.\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003EMejora tu colección y descubre cartas y secretos nuevos en cada partida.\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003E¡Analiza la pantalla de estadísticas detalladas para estudiar tus mejores manos, los comodines más usados y mil cosas más!\u003C/p\u003E\u003C/li\u003E\u003Cli\u003E\u003Cp class=\"bb_paragraph\" \u003ERecuerda aquellos monitores CRT y disfruta de un detallado pixel art a mano.\u003C/p\u003E\u003C/li\u003E\u003C/ul\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003C/p\u003E\u003Cp class=\"bb_paragraph\" \u003E\u003Cspan class=\"bb_img_ctn\"\u003E\u003Cvideo class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3bf854ed6d6623c9940b8281d4c115e0.poster.avif?t=1774958057\" width=780 height=240 \u003E\u003Csource src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/extras/3bf854ed6d6623c9940b8281d4c115e0.webm?t=1774958057\" type=\"video/webm; codecs=vp9\"\u003E\u003C/video\u003E\u003C/span\u003E\u003C/p\u003E",
+            "short_description": "El roguelike de póker. Balatro es un hipnótico y genial constructor de mazos donde podrás jugar manos ilegales de póker, descubrir comodines que alterarán tus partidas y activar combos impresionantes que dispararán tu adrenalina.",
+            "supported_languages": "Inglés, Francés, Italiano, Alemán, Español de España, Holandés, Japonés, Polaco, Portugués de Brasil, Chino simplificado, Español de Hispanoamérica, Chino tradicional",
+            "reviews": "“This is an absolute triumph, the reason Valve should rename their handheld 'the Balatro machine”\u003Cbr\u003E91 – PC Gamer\u003Cbr\u003E\u003Cbr\u003E“Balatro is one of the best deck-building roguelikes I have ever played.”\u003Cbr\u003E10 – Xbox Era\u003Cbr\u003E\u003Cbr\u003E“Balatro is an addictively delicious, menacing creation which devours hours without mercy.”\u003Cbr\u003E5 Stars – ScreenRant\u003Cbr\u003E",
+            "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/7a85430784e4d613cdb0547414d8cf16ffa45747/header.jpg?t=1774958057",
+            "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/554b5f66f60e80b43f910cba21d23af16ed897be/capsule_231x87.jpg?t=1774958057",
+            "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/554b5f66f60e80b43f910cba21d23af16ed897be/capsule_184x69.jpg?t=1774958057",
+            "website": "https://www.playbalatro.com/",
+            "pc_requirements": {
+                "minimum": "\u003Cstrong\u003EMínimo:\u003C/strong\u003E\u003Cbr\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003ERequiere un procesador y un sistema operativo de 64 bits\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003ESO *:\u003C/strong\u003E Windows 7, 8, 10, 11 x64\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EProcesador:\u003C/strong\u003E Intel Core i3\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMemoria:\u003C/strong\u003E 1 GB de RAM\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EGráficos:\u003C/strong\u003E OpenGL 2.1 compatible graphics card, integrated graphics\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EAlmacenamiento:\u003C/strong\u003E 150 MB de espacio disponible\u003C/li\u003E\u003C/ul\u003E",
+                "recommended": "\u003Cstrong\u003ERecomendado:\u003C/strong\u003E\u003Cbr\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003ERequiere un procesador y un sistema operativo de 64 bits\u003C/li\u003E\u003C/ul\u003E"
+            },
+            "mac_requirements": {
+                "minimum": "\u003Cstrong\u003EMínimo:\u003C/strong\u003E\u003Cbr\u003E\u003Cul class=\"bb_ul\"\u003E\u003Cli\u003E\u003Cstrong\u003ESO:\u003C/strong\u003E macOS 11 (Big Sur) or later\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EProcesador:\u003C/strong\u003E Any Intel or Apple Silicon processor\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EMemoria:\u003C/strong\u003E 1 GB de RAM\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EGráficos:\u003C/strong\u003E 4 GB RAM\u003Cbr\u003E\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003EAlmacenamiento:\u003C/strong\u003E 150 MB de espacio disponible\u003C/li\u003E\u003C/ul\u003E",
+                "recommended": "\u003Cstrong\u003ERecomendado:\u003C/strong\u003E\u003Cbr\u003E\u003Cul class=\"bb_ul\"\u003E\u003C/ul\u003E"
+            },
+            "linux_requirements": {
+                "minimum": "\u003Cstrong\u003EMínimo:\u003C/strong\u003E\u003Cbr\u003E\u003Cul class=\"bb_ul\"\u003E\u003C/ul\u003E",
+                "recommended": "\u003Cstrong\u003ERecomendado:\u003C/strong\u003E\u003Cbr\u003E\u003Cul class=\"bb_ul\"\u003E\u003C/ul\u003E"
+            },
+            "legal_notice": "© 2024 LocalThunk and Playstack Ltd. All Rights reserved",
+            "developers": [
+                "LocalThunk"
+            ],
+            "publishers": [
+                "Playstack"
+            ],
+            "price_overview": {
+                "currency": "EUR",
+                "initial": 1399,
+                "final": 1399,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "13,99€"
+            },
+            "packages": [
+                856021
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Comprar Balatro",
+                    "description": "",
+                    "selection_text": "Selecciona una opción de compra",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 856021,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Balatro - 13,99€",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 1399
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "metacritic": {
+                "score": 90,
+                "url": "https://www.metacritic.com/game/pc/balatro?ftag=MCD-06-10aaa1f"
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Un jugador"
+                },
+                {
+                    "id": 22,
+                    "description": "Logros de Steam"
+                },
+                {
+                    "id": 28,
+                    "description": "Compat. total con mando"
+                },
+                {
+                    "id": 29,
+                    "description": "Cromos de Steam"
+                },
+                {
+                    "id": 66,
+                    "description": "Alternativas de color"
+                },
+                {
+                    "id": 68,
+                    "description": "Controles de volumen personalizados"
+                },
+                {
+                    "id": 76,
+                    "description": "Opción solo ratón"
+                },
+                {
+                    "id": 74,
+                    "description": "Jugable sin restricciones de tiempo"
+                },
+                {
+                    "id": 77,
+                    "description": "Opción solo táctil"
+                },
+                {
+                    "id": 23,
+                    "description": "Steam Cloud"
+                },
+                {
+                    "id": 62,
+                    "description": "Préstamo familiar"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "4",
+                    "description": "Casual"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                },
+                {
+                    "id": "2",
+                    "description": "Estrategia"
+                }
+            ],
+            "screenshots": [
+                {
+                    "id": 0,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/96208723dbedef49d71bf1b0a74aee1689018c50/ss_96208723dbedef49d71bf1b0a74aee1689018c50.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/96208723dbedef49d71bf1b0a74aee1689018c50/ss_96208723dbedef49d71bf1b0a74aee1689018c50.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 1,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_4862112e5030f74a5818cd4c31347d699ac5adf3.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_4862112e5030f74a5818cd4c31347d699ac5adf3.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 2,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_3be65a7dd3be072d567e11883d208861a7e959fa.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_3be65a7dd3be072d567e11883d208861a7e959fa.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 3,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_e32ac94d7d1d6be7dd015d78f2b52aeb4cc282ed.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_e32ac94d7d1d6be7dd015d78f2b52aeb4cc282ed.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 4,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_b8455573ec1fd2c9412f22bd8df05f2d8027a95b.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_b8455573ec1fd2c9412f22bd8df05f2d8027a95b.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 5,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_075cb45cbfa97d8139fb11f21667d6e35f908640.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_075cb45cbfa97d8139fb11f21667d6e35f908640.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 6,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_ae055e0e583ac65000920ce33511df73f40814f4.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_ae055e0e583ac65000920ce33511df73f40814f4.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 7,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_204350350761316ad3aa8b0184689f3f93e01f7b.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_204350350761316ad3aa8b0184689f3f93e01f7b.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 8,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_ddee13031ad8ba66ac7806a46f6e5519d32e767d.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_ddee13031ad8ba66ac7806a46f6e5519d32e767d.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 9,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/d8bca9a646921db5ecd24c25571b79e4ff15aa60/ss_d8bca9a646921db5ecd24c25571b79e4ff15aa60.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/d8bca9a646921db5ecd24c25571b79e4ff15aa60/ss_d8bca9a646921db5ecd24c25571b79e4ff15aa60.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 10,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_e52b658ebc79c633063e58d77e73ca9750e01039.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_e52b658ebc79c633063e58d77e73ca9750e01039.1920x1080.jpg?t=1774958057"
+                },
+                {
+                    "id": 11,
+                    "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_5ab29592c9b5cafe5ce787740afc411eecb9664a.600x338.jpg?t=1774958057",
+                    "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/ss_5ab29592c9b5cafe5ce787740afc411eecb9664a.1920x1080.jpg?t=1774958057"
+                }
+            ],
+            "movies": [
+                {
+                    "id": 257198110,
+                    "name": "Accolades Gameplay Video",
+                    "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257198110/8a0ee295b28d9650b4176336600ef70c204209a0/movie_600x337.jpg?t=1759138871",
+                    "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2379780/581550014/e9a47276c1efe4165c2e25e35a06d417d78e1724/1758033766/dash_av1.mpd?t=1759138871",
+                    "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2379780/581550014/e9a47276c1efe4165c2e25e35a06d417d78e1724/1758033766/dash_h264.mpd?t=1759138871",
+                    "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2379780/581550014/e9a47276c1efe4165c2e25e35a06d417d78e1724/1758033766/hls_264_master.m3u8?t=1759138871",
+                    "highlight": true
+                }
+            ],
+            "recommendations": {
+                "total": 152962
+            },
+            "achievements": {
+                "total": 31,
+                "highlighted": [
+                    {
+                        "icon": "8cddd631acb7f6438c486c05311743c81bb6c87c.jpg",
+                        "localized_name": "¡Aumento de apuesta inicial!",
+                        "name": "¡Aumento de apuesta inicial!",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/8cddd631acb7f6438c486c05311743c81bb6c87c.jpg"
+                    },
+                    {
+                        "icon": "6c56b680fef6cfc0b791b97373e811c1a5ff1d37.jpg",
+                        "localized_name": "¡Aumentador de apuesta inicial!",
+                        "name": "¡Aumentador de apuesta inicial!",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/6c56b680fef6cfc0b791b97373e811c1a5ff1d37.jpg"
+                    },
+                    {
+                        "icon": "4a2956c85b5372509a57f8921918aee458058bdf.jpg",
+                        "localized_name": "Aviso",
+                        "name": "Aviso",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/4a2956c85b5372509a57f8921918aee458058bdf.jpg"
+                    },
+                    {
+                        "icon": "dd13d58459711c378794da939b08b7983f346176.jpg",
+                        "localized_name": "Apuestas bajas",
+                        "name": "Apuestas bajas",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/dd13d58459711c378794da939b08b7983f346176.jpg"
+                    },
+                    {
+                        "icon": "753ee8cabb8f63c415c4e44970c8c63b37700754.jpg",
+                        "localized_name": "Apuestas medias",
+                        "name": "Apuestas medias",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/753ee8cabb8f63c415c4e44970c8c63b37700754.jpg"
+                    },
+                    {
+                        "icon": "164a6270413fdb6471db4a09fa9ae76e4b18e7de.jpg",
+                        "localized_name": "Apuestas altas",
+                        "name": "Apuestas altas",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/164a6270413fdb6471db4a09fa9ae76e4b18e7de.jpg"
+                    },
+                    {
+                        "icon": "89a52d2490b3bb30b3ebd4d78e6ba42ad9a32256.jpg",
+                        "localized_name": "Jugador de cartas",
+                        "name": "Jugador de cartas",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/89a52d2490b3bb30b3ebd4d78e6ba42ad9a32256.jpg"
+                    },
+                    {
+                        "icon": "7cda764a01ac1404ac3f194450e8311d259b412e.jpg",
+                        "localized_name": "Descartador de cartas",
+                        "name": "Descartador de cartas",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/7cda764a01ac1404ac3f194450e8311d259b412e.jpg"
+                    },
+                    {
+                        "icon": "0e5333b2b6d782317610e6ccf8f9aebddbc24ada.jpg",
+                        "localized_name": "Ahorros",
+                        "name": "Ahorros",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/0e5333b2b6d782317610e6ccf8f9aebddbc24ada.jpg"
+                    },
+                    {
+                        "icon": "f72d11c67a949f737fe19e85b205d267fbd455dd.jpg",
+                        "localized_name": "Colorado",
+                        "name": "Colorado",
+                        "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2379780/f72d11c67a949f737fe19e85b205d267fbd455dd.jpg"
+                    }
+                ]
+            },
+            "release_date": {
+                "coming_soon": false,
+                "date": "20 FEB 2024"
+            },
+            "support_info": {
+                "url": "https://www.playbalatro.com/",
+                "email": "localthunk@gmail.com"
+            },
+            "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2379780?t=1774958057",
+            "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2379780/page_bg_raw.jpg?t=1774958057",
+            "content_descriptors": {
+                "ids": [],
+                "notes": null
+            },
+            "ratings": {
+                "usk": {
+                    "rating": "12"
+                },
+                "dejus": {
+                    "rating_generated": "1",
+                    "rating": "l",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "steam_germany": {
+                    "rating_generated": "1",
+                    "rating": "0",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                },
+                "igrs": {
+                    "rating_generated": "1",
+                    "rating": "3",
+                    "required_age": "0",
+                    "banned": "0",
+                    "use_age_gate": "0",
+                    "descriptors": ""
+                }
+            }
+        }
+    }
+}
